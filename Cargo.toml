@@ -1,0 +1,9 @@
+[package]
+name = "rust_regret_matching_rps"
+version = "0.1.0"
+edition = "2024"
+description = "Regret matching on rock-paper-scissors, converging to the Nash equilibrium"
+license = "MIT"
+
+[dependencies]
+rand = "0.10.3"
